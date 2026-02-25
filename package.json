@@ -1,0 +1,6 @@
+{
+  "name": "flow-normalizer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "FLOW Text Normalisierung Pipeline"
+}
